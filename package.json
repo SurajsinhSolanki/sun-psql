@@ -1,6 +1,6 @@
 {
     "name": "@surajsinh-solanki/sun-psql",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A comprehensive database management solution for handling multiple databases (PostgreSQL and MySQL) with advanced features like query building, migration management, and input sanitization.",
     "main": "index.js",
     "scripts": {
